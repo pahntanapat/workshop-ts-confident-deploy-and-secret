@@ -16,3 +16,10 @@ A hands-on workshop to learn confident deployment and secret management for Azur
 
 - For each behavior changed by a PR, update the relevant feature-area row and link its test or verification entry point.
 - If a new user-visible behavior is added, add a row before merging.
+
+<!-- pr-review-canvas-review-step -->
+## PR Review Canvas
+
+| Capability | Implementation | Verification |
+| --- | --- | --- |
+| PR review guidance | `.github/skills/pr-review-canvas/SKILL.md` | Review GitHub CI status and validate linked test output, test script, implementation, feature map, and frontend video when applicable. |
